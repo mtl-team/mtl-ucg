@@ -1,0 +1,43 @@
+{
+  "appcontext": {
+    "token": "",
+    "devid": "DUPNW17610001718865360039302957",
+    "userid": "",
+    "massotoken": "",
+    "appid": "sso",
+    "funcid": "",
+    "groupid": "",
+    "sessionid": "",
+    "user": "",
+    "tabid": "",
+    "pass": ""
+  },
+  "servicecontext": {
+    "callback": "nothing",
+    "actionid": "umCommonService",
+    "params": {
+      "user": "a",
+      "pass": "a111111"
+    },
+    "actionname": "load",
+    "viewid": "com.yonyou.ma.controller.CustomerController",
+    "controllerid": "com.yonyou.ma.controller.CustomerController"
+  },
+  "deviceinfo": {
+    "os": "web",
+    "style": "web",
+    "isroot": false,
+    "versionname": "3.6.2",
+    "devid": "DUPNW17610001718865360039302957",
+    "name": "PRA-AL00X",
+    "ssid": "yumhf_wifi",
+    "appversion": "4",
+    "mac": "c4:86:e9:7c:86:f0",
+    "uuid": "",
+    "wfaddress": "c4:86:e9:7c:86:f0",
+    "osversion": "8.0.0",
+    "lang": "zh",
+    "ncdevid": "865360039302957"
+  },
+  "serviceid": "UMSSOGetApps"
+}
